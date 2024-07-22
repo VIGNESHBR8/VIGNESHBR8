@@ -8,7 +8,7 @@
 - 👨🏻‍💻 Hi, I'm a tech enthusiast and college student with a passion for creativity and problem-solving. As a self-taught developer, web designer, and open source cyber enthusiast I constantly push the boundaries of what's possible in the tech industry.
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on new projects
-- 💬 Ask me about Web Development, Cyber Sceurity, Ethical Hacking, Programming
+- 💬 Ask me about Web Development, cyber security, Ethical Hacking, Programming
 - 📫 How to reach me: **vigneshbr759@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
