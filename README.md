@@ -1,7 +1,7 @@
 <h1 align="center">Hi , I'm Vignesh B R</h1>
 <h3 align="center">A passionate software engineer from India</h3>
 <h1 align="left">✨About Me</h1>
-<img align="right" ait="coding" width="400" scr="https://miro.medium.com/max/1360/0*gqO3slLmGb4mUeje.gif">
+<img align="right" ait="coding" width="400" scr="https://github.com/rudrabarad/Gifs">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vigneshbr8&label=Profile%20views&color=0e75b6&style=flat" alt="vigneshbr8" /> </p>
 
 
