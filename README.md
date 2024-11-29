@@ -14,10 +14,10 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/vigneshbr_7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="vigneshbr_8" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/vignesh-b-r-66b3b61ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vignesh-b-r-66b3b61ab" height="30" width="40" /></a>
-<a href="https://instagram.com/http://instagram.com/vigneshbr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://instagram.com/vigneshbr7" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/https://youtube.com/@dopxo2171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@dopxo2171" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.com/channels/@vigneshbr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@vigneshbr7" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/vignesh-b-r-66b3b61ab" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/vignesh-b-r-66b3b61ab" height="30" width="40" /></a>
+<a href="https://instagram.com/vigneshbr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="http://instagram.com/vigneshbr7" height="30" width="40" /></a>
+<a href="https://www.youtube.com/c/@dopxo2171" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://youtube.com/@dopxo2171" height="30" width="40" /></a>
+<a href="https://discord.gg/channels/@vigneshbr7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.com/channels/@vigneshbr7" height="30" width="40" /></a>
 </p>
 
 
